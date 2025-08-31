@@ -1,0 +1,3 @@
+name: nextcloud
+runtime: nodejs
+description: Minimal Nextcloud stack
